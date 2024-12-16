@@ -163,3 +163,4 @@ cython_debug/
 chroma_db/
 data/
 config.json
+Q&A/
