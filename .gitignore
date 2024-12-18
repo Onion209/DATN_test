@@ -164,3 +164,5 @@ chroma_db/
 data/
 config.json
 Q&A/
+unsloth_env/
+training_data.json
